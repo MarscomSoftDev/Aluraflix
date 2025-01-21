@@ -57,7 +57,9 @@ const Banner = () => {
             titleColor="rgba(42, 122, 228, 1)"
           />
           <Encabezado>Challenger React</Encabezado>
-          <Parrafo>Creado para comprender y reforzar el curso de react</Parrafo>
+          <Parrafo>
+            Creado para comprenderr y reforzar el curso de react
+          </Parrafo>
         </ContenidoTexto>
         <VideoCardMain
           borderColor={"rgba(42, 122, 228, 1)"}
